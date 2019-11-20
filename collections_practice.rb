@@ -48,7 +48,8 @@ end
 
 def add_s(array)
   array.map do |x|
-    if array == x
+    if array[1] == x
+      
 
 
 
